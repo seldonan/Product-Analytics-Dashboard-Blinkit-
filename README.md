@@ -4,7 +4,7 @@
 This project is a product analytics dashboard built using **Power BI** on a grocery sales dataset. The dashboard tracks key metrics, visualizes sales trends and provides actionable insights to support product and business decisions.
 
 ## Dataset
-- File: `blinkit grocery data.xlsx`
+- File: `Data.xlsx`
 - Contains grocery sales data including:
   - Items sold
   - Sales revenue
